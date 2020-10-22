@@ -23,9 +23,15 @@ label {
 }
 label.response {
     font-size: 18px;
-    color: black;
-
+    color: darkolivegreen;
 }
+
+response-label {
+    font-family: "Arial";
+    font-size: 18px;
+    color: darkolivegreen;
+}
+
 label.sub-title {
     text-align: center;
     font-weight: bold;
